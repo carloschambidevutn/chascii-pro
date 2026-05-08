@@ -5,8 +5,9 @@ Convertidor de imagen a arte ASCII hecho con python.
 
 ## EJECUTAR EN TERMINAL COMO:
 
-### < chascii-pro image.jpg >  
-Para mas precision agregar al final un ancho  ---> < -w 180 >
+### < chascii-pro.py image.jpg >  
+Para mas precision agregar al final un ancho 
+--> < -w 180 >
 
 ----------------------------------------------------------------------------------------------------
 
